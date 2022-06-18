@@ -53,14 +53,14 @@
     <UnityVersion>2021.3.4f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Resources\Scripts\GameMechanics\PlayerBehaviour.cs" />
-    <Compile Include="Assets\Resources\Scripts\GameMechanics\AsteroidBehaviour.cs" />
-    <Compile Include="Assets\Resources\Scripts\GameMechanics\Player.cs" />
     <Compile Include="Assets\Resources\Scripts\GameMechanics\UFOBehaviour.cs" />
     <Compile Include="Assets\Resources\Scripts\GameMechanics\Asteroid.cs" />
     <Compile Include="Assets\Resources\Scripts\GameMechanics\GameManagerBehaviour.cs" />
+    <Compile Include="Assets\Resources\Scripts\GameMechanics\PlayerBehaviour.cs" />
     <Compile Include="Assets\Resources\Scripts\GameMechanics\UFO.cs" />
+    <Compile Include="Assets\Resources\Scripts\GameMechanics\AsteroidBehaviour.cs" />
     <Compile Include="Assets\Resources\Scripts\GameMechanics\BulletBehaviour.cs" />
+    <Compile Include="Assets\Resources\Scripts\GameMechanics\Player.cs" />
     <Compile Include="Assets\Resources\Scripts\GameMechanics\UnityToNumerics.cs" />
     <Compile Include="Assets\Resources\Scripts\GameMechanics\GameManager.cs" />
     <Compile Include="Assets\Resources\Scripts\GameMechanics\Bullet.cs" />

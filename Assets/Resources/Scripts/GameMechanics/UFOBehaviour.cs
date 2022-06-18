@@ -9,7 +9,7 @@ public class UFOBehaviour : MonoBehaviour
 
     void Start()
     {
-
+        transform.position = UnityToNumerics.NtoU(ufo.getPosition());
     }
 
     // Update is called once per frame
